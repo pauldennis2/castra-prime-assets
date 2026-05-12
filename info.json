@@ -1,0 +1,10 @@
+{
+  "name": "castra-prime-assets",
+  "version": "1.0.0",
+  "title": "Castra Prime Assets",
+  "author": "erronius",
+  "factorio_version": "2.0",
+  "space_travel_required": true,
+  "dependencies": ["base >= 2.0.30", "space-age", "! castra"],
+  "description": "Asset fork of Castra, originally by Bartz24."
+}
